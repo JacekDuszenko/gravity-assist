@@ -4,7 +4,9 @@
   
 ## How to run? 
 After cloning the repo, on unixlike platform run:
+
   $ cabal install gloss && cabal run
+  
 Aforementioned command should install the only required dependency and start simulation in full screen.
 
 ## How to move around? 
