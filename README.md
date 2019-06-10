@@ -17,5 +17,5 @@ that's kind of important, because the final effect is not observable without doi
   Unfortunately, I wasn't able to print the information about velocities and positions on the screen (Gloss, as far I checked does not have this in its library), the option here was to print everything to stdout in console, but I decided to remove all debug logs that I was using and leave it as it is now.
   You can find more information in the comments section in source.
   
-  ![gravity_assist](.gif)
+  ![](gravity_assist.gif)
   
